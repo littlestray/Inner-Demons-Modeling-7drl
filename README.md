@@ -8,3 +8,7 @@ Player Character Model Origin Inspo:
 Color Palette:
 
 ![Colors](color-palette.png)
+
+main-char-voxel demo:
+
+![main-char-voxel](./demos/main-char-voxel-1.png)
