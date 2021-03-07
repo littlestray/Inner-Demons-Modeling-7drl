@@ -11,4 +11,4 @@ Color Palette:
 
 main-char-voxel demo:
 
-![main-char-voxel](./demos/main-char-voxel-1.png)
+![main-char-voxel](./images/main-char-voxel-1.png)
